@@ -1,8 +1,8 @@
 const colors = {
-  darkPrimary: '#D32F2F',
-  primary: '#c13229',
-  lightPrimary: 'rgba(255,205,210,0.8)',
-  accent: '#795548',
+  darkPrimary: '#00796B',
+  primary: '#009688',
+  lightPrimary: '#B2DFDB',
+  accent: '#FFC107',
   background: '#1F0808',
   transparent: 'rgba(0,0,0,0)',
   windowTint: 'rgba(0, 0, 0, 0.4)',
@@ -19,9 +19,10 @@ const colors = {
   eggplant: '#251a34',
   border: '#483F53',
   banner: '#5F3E63',
-  text: '#E0D7E5',
+  text: '#212121',
+  secondary: '#757575',
   black: '#000000',
-  hairline: '#8E8E8E'
+  hairline: '#BDBDBD'
 };
 
 export default colors;

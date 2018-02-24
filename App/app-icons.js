@@ -2,7 +2,9 @@ import FontAwesome from 'react-native-vector-icons/FontAwesome';
 import { Colors, Metrics } from './Themes';
 
 const icons = {
+  'home': [Metrics.icons.medium, Colors.snow],
   'line-chart': [Metrics.icons.medium, Colors.snow],
+  'chart-line': [Metrics.icons.medium, Colors.snow],
   money: [Metrics.icons.medium, Colors.snow],
   users: [Metrics.icons.medium, Colors.snow],
   pencil: [Metrics.icons.medium, Colors.snow],

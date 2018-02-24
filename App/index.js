@@ -24,13 +24,13 @@ class App extends Component {
     const tabs = [{
         label: I18n.t('home'),
         screen: 'screen.home',
-        icon: iconsMap.money,
+        icon: iconsMap.home,
         title: I18n.t('home')
       },
       {
           label: I18n.t('trending'),
           screen: 'screen.trending',
-          icon: iconsMap.money,
+          icon: iconsMap["line-chart"],
           title: I18n.t('trending')
       }];
 
